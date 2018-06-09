@@ -1,0 +1,4 @@
+com/springboot/configuration/ProductionOnlyConfiguration.class
+com/springboot/WelcomeController.class
+com/springboot/CrossOriginDemoApplication.class
+com/springboot/configuration/DevelopmentOnlyConfiguration.class
